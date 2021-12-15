@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla</title>
+</head>
+<body>
+    
+    <h1>Países África</h1>
+    <table>
+    </tr>
+            <tr>
+                <td>País</td> <td>Idioma</td> <td>Capital</td>
+            </tr>
+            <tr>
+                <td>Angola</td> <td>Portugés</td> <td>Luanda</td>
+            </tr>
+            <tr>
+                <td>Gabón</td> <td>Francés</td> <td>Libreville</td>
+            </tr>
+            <tr>
+                <td>Liberia</td> <td>Inglés</td> <td>Monrovia</td>
+            </tr>
+
+    </table>
+
+</body>
+</html>
