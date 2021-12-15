@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salmorejo</title>
+</head>
+<body>
+    <h1>SALMOREJO</h1>
+    <h2>Ingredientes del salmorejo</h2>
+    <ul>
+        <li>1Kg. de tomates</li>
+        <li>200 grs. de pan</li>
+        <li>100 grs. de aceite de oliva</li>
+        <li>1 diente de ajo</li>
+        <li>10 grs. de sal</li>
+    </ul>
+    <h4>Procedimiento del salmorejo</h4>
+    <ol>
+        <li>Limpiar y triturar los tomates.</li>
+        <li>Colar para quitar la piel y las pepitas</li>
+        <li>Volver a triturar añadiéndole:
+        <ol type = "a">
+            <li>Pan</li>
+            <li>Aceite</li>
+            <li>Ajos</li>
+            <li>Sal</li>
+        </ol>
+    </ol>
+
+</body>
+</html>
