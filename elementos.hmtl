@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id ="menu">
+        <ul>
+            <li><a href="#fuego">FUEGO</a></li>
+            <li><a href="#tierra">TIERRA</a></li>
+            <li><a href="#aire">AIRE</a></li>
+            <li><a href="#agua">AGUA</a></li>
+        </ul>
+    </div>
+    <div id="fuego">
+        <img src="images/fuego.jpg" alt="En esta imagen se ve fuego">
+    </div>
+    </div>
+    <div id="aire">
+        <img src="images/aire.webp" alt="En esta imagen se ve aire">
+    </div>
+    </div>
+    <div id="agua">
+        <img src="images/agua.webp" alt="En esta imagen se ve agua">
+    </div>
+    <div id="tierra">
+        <img src="images/tierra.webp" alt="En esta imagen se ve tierra">
+    </div>
+
+</body>
+</html>
